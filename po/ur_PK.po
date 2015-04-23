@@ -1,0 +1,56 @@
+# 
+# Translators:
+# Asfar Rizvi <asfar.rizvi@nextgearcapital.com>, 2015
+# Jeff Welch, 2015
+# John Daley <john.daley@nextgearcapital.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: todomvc\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-23 17:51+0000\n"
+"Last-Translator: John Daley <john.daley@nextgearcapital.com>\n"
+"Language-Team: Urdu (Pakistan) (http://www.transifex.com/projects/p/todomvc/language/ur_PK/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ur_PK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.6\n"
+
+#: index.html
+msgid "todos"
+msgstr "کام کی فہرست"
+
+#: index.html
+msgid "Mark all as complete"
+msgstr "نشان تمام کے طور پر مکمل"
+
+#: index.html
+msgid "{{$count}} item left"
+msgid_plural "{{$count}} items left"
+msgstr[0] "شے بائیں {{$count}}"
+msgstr[1] "بائیں اشیاء {{$count}}"
+
+#: index.html
+msgid "All"
+msgstr "تمام"
+
+#: index.html
+msgid "Active"
+msgstr "ایکٹو"
+
+#: index.html
+msgid "Completed"
+msgstr "مکمل ہو گیا"
+
+#: index.html
+msgid "Clear completed ({{completedCount}})"
+msgstr "واضح مکمل کر لیا  ({{completedCount}})"
+
+#: index.html
+msgid "Double-click to edit a todo"
+msgstr "ایک کام کو ترمیم کرنے کے لے؛  ڈبل کلک کریں"
+
+#: index.html
+msgid "What needs to be done?"
+msgstr "کیا کیا کرنے کی ضرورت ہے؟"
