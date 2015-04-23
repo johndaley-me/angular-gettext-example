@@ -2,6 +2,10 @@ msgid ""
 msgstr ""
 
 #: index.html
+msgid "todos"
+msgstr ""
+
+#: index.html
 msgid "Mark all as complete"
 msgstr ""
 
