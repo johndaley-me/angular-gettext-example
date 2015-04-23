@@ -89,8 +89,9 @@ todomvc.controller('TodoCtrl', function TodoCtrl($scope, $location, todoStorage,
     $scope.languages = {
         current: gettextCatalog.currentLanguage,
         available: {
-        'nl': 'Nederlands',
-        'en': 'English'
+            'nl': 'Nederlands',
+            'en': 'English',
+            'es': 'Spanish'
         }
     };
 
