@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-angular-gettext": "0.0.6"
+    "grunt-angular-gettext": "0.0.6",
+    "gulp-angular-gettext": "^2.1.0"
   }
 }
