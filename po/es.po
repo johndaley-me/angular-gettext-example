@@ -47,7 +47,7 @@ msgstr "Borrar terminados ({{completedCount}})"
 
 #: index.html
 msgid "Double-click to edit a todo"
-msgstr "Haga doble clic para editar un TODO"
+msgstr "Haga doble clic para editar un quehacer"
 
 #: index.html
 msgid "What needs to be done?"
