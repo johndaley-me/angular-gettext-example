@@ -10,7 +10,7 @@ Things to watch out for:
 * Annotated the views to add translation support.
 * Added translations in the `po` folder.
 
-Full usage instructions can be found at [http://angular-gettext.rocketeer.be/](http://angular-gettext.rocketeer.be/).
+Full usage instructions can be found at [https://github.com/johndaley-me/angular-gettext-example.git](https://github.com/johndaley-me/angular-gettext-example.git).
 
 ---
 
@@ -26,29 +26,15 @@ Original README below:
 ## Learning AngularJS
 The [AngularJS website](http://angularjs.org) is a great resource for getting started.
 
-Here are some links you may find helpful:
+Steps to create the project:
 
-* [Tutorial](http://docs.angularjs.org/tutorial)
-* [API Reference](http://docs.angularjs.org/api)
-* [Developer Guide](http://docs.angularjs.org/guide)
-* [Applications built with AngularJS](http://builtwith.angularjs.org)
-* [Blog](http://blog.angularjs.org)
-* [FAQ](http://docs.angularjs.org/misc/faq)
-* [AngularJS Meetups](http://www.youtube.com/angularjs)
-
-Articles and guides from the community:
-
-* [Code School AngularJS course](http://www.codeschool.com/code_tv/angularjs-part-1)
-* [5 Awesome AngularJS Features](http://net.tutsplus.com/tutorials/javascript-ajax/5-awesome-angularjs-features)
-* [Using Yeoman with AngularJS](http://briantford.com/blog/angular-yeoman.html)
-* [me&ngular - an introduction to MVW](http://stephenplusplus.github.io/meangular)
-
-Get help from other AngularJS users:
-
-* [Walkthroughs and Tutorials on YouTube](http://www.youtube.com/playlist?list=PL1w1q3fL4pmgqpzb-XhG7Clgi67d_OHXz)
-* [Google Groups mailing list](https://groups.google.com/forum/?fromgroups#!forum/angular)
-* [angularjs on Stack Overflow](http://stackoverflow.com/questions/tagged/angularjs)
-* [AngularJS on Twitter](https://twitter.com/angularjs)
-* [AngularjS on Google +](https://plus.google.com/+AngularJS/posts)
-
-_If you have other helpful links to share, or find any of the links above no longer work, please [let us know](https://github.com/tastejs/todomvc/issues)._
+1. Clone the angular-gettext project from : [https://github.com/johndaley-me/angular-gettext-example.git]
+2. Install `npm install`
+3. Install `bower install`
+4. Install POEdit from [http://poedit.net/] - (it's an optional).
+5. Install Grunt - `npm install -g grunt-cli`
+6. Run `grunt` to generate the template.pot file for export
+7. Goto [https://www.transifex.com/], setup an account and upload the `template.pot` file.
+8. Do translations to the respected International Language.
+9. Import the translated po files from transifex into the project.
+10.Run `grunt` to generate all translated po files.
