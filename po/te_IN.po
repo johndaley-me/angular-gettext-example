@@ -1,12 +1,13 @@
 # 
 # Translators:
+# John Daley <john.daley@nextgearcapital.com>, 2015
 # Sean Strantz <Sean.Strantz@nextgearcapital.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: todomvc\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-04-23 16:19+0000\n"
-"Last-Translator: Sean Strantz <Sean.Strantz@nextgearcapital.com>\n"
+"PO-Revision-Date: 2015-04-24 13:50+0000\n"
+"Last-Translator: John Daley <john.daley@nextgearcapital.com>\n"
 "Language-Team: Telugu (India) (http://www.transifex.com/projects/p/todomvc/language/te_IN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,38 +18,38 @@ msgstr ""
 
 #: index.html
 msgid "todos"
-msgstr "a"
+msgstr "todos"
 
 #: index.html
 msgid "Mark all as complete"
-msgstr "a"
+msgstr "అన్ని పూర్తి చేయండి"
 
 #: index.html
 msgid "{{$count}} item left"
 msgid_plural "{{$count}} items left"
-msgstr[0] "{{$count}} item lefta"
-msgstr[1] "{{$count}} items leftb"
+msgstr[0] "ఏకవచనం : {{$count}} మిగిలిపోయిన అంశం"
+msgstr[1] "బహువచనం: {$count} మిగిలిపోయిన అంశాలు"
 
 #: index.html
 msgid "All"
-msgstr "d"
+msgstr "అన్ని"
 
 #: index.html
 msgid "Active"
-msgstr "d"
+msgstr "ఉపయోగంలో"
 
 #: index.html
 msgid "Completed"
-msgstr "d"
+msgstr "పూర్తి అయినవవి"
 
 #: index.html
 msgid "Clear completed ({{completedCount}})"
-msgstr "Clear completed ({{completedCount}})v"
+msgstr "స్పష్టమైన పూర్తి"
 
 #: index.html
 msgid "Double-click to edit a todo"
-msgstr "d"
+msgstr "todo సవరించడానికి ఒక డబుల్క్ల క్లిక్ చేయండి"
 
 #: index.html
 msgid "What needs to be done?"
-msgstr "a"
+msgstr "ఏది కావాలి"

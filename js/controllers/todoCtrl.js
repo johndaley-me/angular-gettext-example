@@ -92,8 +92,8 @@ todomvc.controller('TodoCtrl', function TodoCtrl($scope, $location, todoStorage,
             'nl': 'Nederlands',
             'en': 'English',
             'es': 'Spanish',
-            'te': 'Telugu',
-            'ur_PK': 'Urdu'
+            'te_IN': 'Telugu (India)',
+            'ur_PK': 'Urdu (Pakistan)'
         }
     };
 
