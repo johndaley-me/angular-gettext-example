@@ -1,0 +1,54 @@
+# 
+# Translators:
+# Sean Strantz <Sean.Strantz@nextgearcapital.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: todomvc\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-23 16:19+0000\n"
+"Last-Translator: Sean Strantz <Sean.Strantz@nextgearcapital.com>\n"
+"Language-Team: Telugu (India) (http://www.transifex.com/projects/p/todomvc/language/te_IN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te_IN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.6\n"
+
+#: index.html
+msgid "todos"
+msgstr "a"
+
+#: index.html
+msgid "Mark all as complete"
+msgstr "a"
+
+#: index.html
+msgid "{{$count}} item left"
+msgid_plural "{{$count}} items left"
+msgstr[0] "{{$count}} item lefta"
+msgstr[1] "{{$count}} items leftb"
+
+#: index.html
+msgid "All"
+msgstr "d"
+
+#: index.html
+msgid "Active"
+msgstr "d"
+
+#: index.html
+msgid "Completed"
+msgstr "d"
+
+#: index.html
+msgid "Clear completed ({{completedCount}})"
+msgstr "Clear completed ({{completedCount}})v"
+
+#: index.html
+msgid "Double-click to edit a todo"
+msgstr "d"
+
+#: index.html
+msgid "What needs to be done?"
+msgstr "a"
