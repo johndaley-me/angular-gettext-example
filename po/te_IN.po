@@ -1,12 +1,24 @@
+# 
+# Translators:
+# John Daley <john.daley@nextgearcapital.com>, 2015
+# Sean Strantz <Sean.Strantz@nextgearcapital.com>, 2015
 msgid ""
 msgstr ""
+"Project-Id-Version: todomvc\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-24 13:50+0000\n"
+"Last-Translator: John Daley <john.daley@nextgearcapital.com>\n"
+"Language-Team: Telugu (India) (http://www.transifex.com/projects/p/todomvc/language/te_IN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: POEditor.com\n"
-"Project-Id-Version: todomvc\n"
-"Language: te\n"
+"Language: te_IN\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.6\n"
+
+#: index.html
+msgid "todos"
+msgstr "todos"
 
 #: index.html
 msgid "Mark all as complete"
@@ -15,9 +27,8 @@ msgstr "అన్ని పూర్తి చేయండి"
 #: index.html
 msgid "{{$count}} item left"
 msgid_plural "{{$count}} items left"
-msgstr[0] "ఏకవచనం : {{$count}} మిగిలిపోయిన అంశం\n"
-""
-msgstr[1] "బహువచనం: {{$count}} మిగిలిపోయిన అంశాలు"
+msgstr[0] "ఏకవచనం : {{$count}} మిగిలిపోయిన అంశం"
+msgstr[1] "బహువచనం: {$count} మిగిలిపోయిన అంశాలు"
 
 #: index.html
 msgid "All"
@@ -42,4 +53,3 @@ msgstr "todo సవరించడానికి ఒక డబుల్క్�
 #: index.html
 msgid "What needs to be done?"
 msgstr "ఏది కావాలి"
-
