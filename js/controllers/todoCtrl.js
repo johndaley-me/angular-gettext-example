@@ -91,6 +91,7 @@ todomvc.controller('TodoCtrl', function TodoCtrl($scope, $location, todoStorage,
         available: {
             'nl': 'Nederlands',
             'en': 'English',
+            'en_CA': 'English (Canada)',
             'es': 'Spanish',
             'te_IN': 'Telugu (India)',
             'ur_PK': 'Urdu (Pakistan)'
